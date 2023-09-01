@@ -1,4 +1,7 @@
 # Netflix-Clone
+![Netflix_cloneSS](https://github.com/Laharireddy-95/Netflix_Clone/assets/126745704/4f3d2385-cf7c-4ebb-86fc-9b8f33f98bf3)
+
+## Description
 Hey there, check out this cool HTML and CSS project—a Netflix clone, just like the real deal! Dive into the world of structuring and styling as you create a basic streaming platform interface that's got all the Netflix feels. Quick heads-up: this one's all about the front-end fun, so no actual movies or fancy functions here. Just good old web design magic!
 
 ## Features
